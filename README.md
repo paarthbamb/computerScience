@@ -1,1 +1,1 @@
-collection of all my miscellaneous computer science projects. mostly in Java.
+collection of all my miscellaneous computer science projects in Java.
